@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "com.unity.gdata": "file:../../../package",
+    "com.unity.ide.visualstudio": "2.0.14",
+    "com.unity.test-framework": "1.1.31"
+  },
+  "testables": [
+    "com.unity.gdata"
+  ]
+}

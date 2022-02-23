@@ -1,0 +1,18 @@
+{
+    "name": "com.unity.gdata.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:adfc9b26b02ce4043bf19cf95ee1d6c4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
